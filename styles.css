@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'FOTRodin';
+    src: url('http://localhost:5500/FOTRodinProM.woff2') format('woff2');
+
+    /* Add additional formats for better browser compatibility */
+}
+body {
+    font-family: 'FOTRodin'; /* Use the imported font as the primary font */
+    line-height: 1.6;
+    margin: 40px;
+}
+
+/* Additional styles for your content */
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
+}
