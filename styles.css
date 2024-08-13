@@ -4,6 +4,9 @@
 
     /* Add additional formats for better browser compatibility */
 }
+.strikethrough-text {
+    text-decoration: line-through;
+}
 body {
     font-family: 'FOTRodin'; /* Use the imported font as the primary font */
     line-height: 1.6;
