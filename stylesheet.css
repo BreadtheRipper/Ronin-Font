@@ -16,8 +16,31 @@
 /* BOLD T1 */
 @font-face {
 	font-family: 'sce-ps3_rodin_latinregular';
-	src: url('Rodin-Normal.woff2') format('woff2');
-	font-weight: 700;
+	src: url('Rodin-Bold.woff2') format('woff2');
+	font-weight: normal;
 	font-style: normal;
 }
 
+/* Light Italic */
+@font-face {
+	font-family: 'sce-ps3_rodin_latinregular';
+	src: url('Rodin-Light.woff2') format('woff2');
+	font-weight: lighter;
+	font-style: italic;
+}
+
+/* Normal Italic */ /*IMPORTANT FOR NON-LATIN ITALICS*/
+@font-face {
+	font-family: 'sce-ps3_rodin_latinregular';
+	src: url('Rodin-Light.woff2') format('woff2');
+	font-weight: lighter;
+	font-style: italic;
+}
+
+/* Bold Italic */ /*IMPORTANT FOR NON-LATIN BOLD*/
+@font-face {
+	font-family: 'sce-ps3_rodin_latinregular';
+	src: url('Rodin-Light.woff2') format('woff2');
+	font-weight: lighter;
+	font-style: italic;
+}
