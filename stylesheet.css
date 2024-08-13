@@ -1,37 +1,37 @@
 /* Light */
-@font-face {
+/* @font-face {
 	font-family: 'sce-ps3_rodin_latinregular';
 	src: url('FOTRodinProL.woff2') format('woff2');
 	font-weight: lighter;
 	font-style: normal;
-}
+} */
 /* Normal/Medium */
 @font-face {
 	font-family: 'sce-ps3_rodin_latinregular';
-	src: url('FOT-RodinProN-M.woff2') format('woff2');
+	src: url('/New/Rodin-Regular.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
 
 /* BOLD T1 */
-@font-face {
+/* @font-face {
 	font-family: 'sce-ps3_rodin_latinregular';
 	src: url('FOTRodinProDB.woff2') format('woff2');
 	font-weight: 700;
 	font-style: normal;
-}
+} */
 
 /* BOLD T2 */
-@font-face {
+/* @font-face {
 	font-family: 'sce-ps3_rodin_latinregular';
 	src: url('FOTRodinProEB.woff2') format('woff2');
 	font-weight: 800;
 	font-style: normal;
-}
+} */
 /* BOLD T3 */
-@font-face {
+/* @font-face {
 	font-family: 'sce-ps3_rodin_latinregular';
 	src: url('FOTRodinProUB.woff2') format('woff2');
 	font-weight: 900;
 	font-style: normal;
-}
+} */
